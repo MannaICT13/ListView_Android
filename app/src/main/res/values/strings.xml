@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="textViewTitle_name">TextView</string>
+    <string name="textViewDescription_name">Click For Details...</string>
+    <string name="flagContentDescription_name">flags</string>
+
+    <string-array name="countryName">
+        <item>Afganistan</item>
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>Bulgeria</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Cuba</item>
+        <item>finland</item>
+    </string-array>
+
+
+</resources>
